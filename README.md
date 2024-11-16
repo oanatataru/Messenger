@@ -13,7 +13,7 @@ The application supports basic chat functionalities and is designed to handle mu
 The project is built with two main modules:
 
 * Client Module: Sends user requests to the server and diplays on terminal the answer recieved from server.
-* Server Module: Handles user commands and manages client connections, authentification, and messafe exchange.
+* Server Module: Handles user commands and manages client connections, authentification, and message exchange.
 
 **Chat Features**:
 
